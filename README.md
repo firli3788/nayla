@@ -3,7 +3,7 @@
 <a href="#"><img title="NayLa-B0TZ" src="https://img.shields.io/badge/Firli-Saputra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zevoffc/nayla"><img title="Source" src="https://img.shields.io/badge/source Free-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/zevoffc/nayla"><img title="Source" src="https://img.shields.io/badge/source -Free-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zevoffc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zevoffc ?color=red&style=flat-square"></a>
